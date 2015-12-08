@@ -1,0 +1,6 @@
+1.what is angularJS?
+	a.make developing more esaier,and efficient.
+	b.mvc
+	c. simple ajax invoke
+	d. test it easy.
+	f. data-bind
